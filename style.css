@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+   
+}
+form{
+    width: 30%;
+    height: 65%;
+    background-color: darkslategrey;
+    padding: 2%;
+    margin: 1%;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+button {
+    background-color: dodgerblue;
+    text-align: center;
+}
